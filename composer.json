@@ -1,0 +1,6 @@
+{
+  "name": "my/project",
+  "require": {
+    "php": ">=8.0"
+  }
+}
